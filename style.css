@@ -1,0 +1,11 @@
+img{
+    height: fit-content;
+    width: 500px;
+}
+body{
+    font-size: large;
+    font-style: oblique;
+}
+.hy{
+    color: blueviolet;
+}
